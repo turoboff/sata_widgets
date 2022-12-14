@@ -2,6 +2,7 @@
 
 This plugin created by company SATA_SOFTWARE
 
+# The README is not yet complete. Only notes are written here!!!
 ## Getting Started
 
 there are
